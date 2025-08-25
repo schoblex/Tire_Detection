@@ -1,0 +1,7 @@
+path: dataset_split_preprocessed
+train: images/train
+val: images/val
+test: images/test
+
+names:
+  0: tire_fault
