@@ -2,6 +2,15 @@
 
 Follow these steps to set up and run the project:
 
+## 1. Downloading this Repository
+The Files with the picture data where to big to upload to Github the normal way.
+Therefore it was pushed into Github with Git LFS. To pull this Repository it is adviced to have git lfs installed:
+
+```bash
+git lfs install
+```
+The other option is to download the files seperatly from Github.
+
 ---
 
 ## 1. Extract the ZIP Files
