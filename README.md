@@ -5,7 +5,8 @@ Follow these steps to set up and run the project:
 ---
 
 ## 1. Extract the ZIP Files
-Unzip the two provided `.zip` files into the project directory.  
+Unzip the provided `.zip` files into the project directory.  
+Make sure that `pics.z01` and `pics.zip` are being combined.
 Make sure the extracted folders are in the correct location before proceeding.
 
 ---
